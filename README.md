@@ -14,7 +14,8 @@
 
 <br/>
 
- [![nodepractices](/assets/images/twitter-s.png)](https://twitter.com/nodepractices/) **Follow us on Twitter!** [**@nodepractices**](https://twitter.com/nodepractices/)
+ [![nodepractices](/assets/images/twitter-s.png)](https://twitter.com/nodepractices/) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fnodebestpractices.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fnodebestpractices?ref=badge_shield)
+**Follow us on Twitter!** [**@nodepractices**](https://twitter.com/nodepractices/)
  <br/>
 
 # Welcome! 3 Things You Ought To Know First:
@@ -684,3 +685,7 @@ Node.js Core Collaborator, been noding since 0.4, and have noded in multiple pro
 
 ## `Bruno Scheufler` 
 💻 full-stack web developer and Node.js enthusiast.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fnodebestpractices.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fnodebestpractices?ref=badge_large)
